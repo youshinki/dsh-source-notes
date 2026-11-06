@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+tmp/
+*.log
+
+# 本地复现用的上游源码，不入库
+upstream/
+vendor/
